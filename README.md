@@ -17,7 +17,7 @@ Notice that, you should replace the line in the `.clangd` file below to your own
 
 Then, have fun writting C++ in Windows.
 
-After running this template project, you will get a simple Win32 window, like this,
+After running this template project, you will get a simple Win32 window rendering a rectangle and some text like this,
 
-![](https://i.imgur.com/hzUxFYi.png)
+![](https://i.postimg.cc/TPq3sYqf/image.png)
 
